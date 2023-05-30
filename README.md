@@ -19,11 +19,11 @@
 18. [WAP to create a simple calculator that performs addition, subtraction, multiplication, and division.](./Practice2/Ques18.dart)
 19. [Write a dart program to print 1 to 100 but not 41.](./Practice2/Ques19.dart)
 20. [Write a dart program to swap two numbers.](./Practice2/Ques20.dart)
-21. [Write a program in Dart to print your own name using function.](./Que/Practice2s21.dart)
-22. [Write a program in Dart to print even numbers between intervals using function.](./Ques22.dart)
-23. [Write a program in Dart that generates random password.](./Ques23.dart)
-24. [Write a program in Dart that find the area of a circle using function.](./Ques24.dart)
-25. Write a program in a dart that implements the Pythagorean theorem using function.
+21. [Write a program in Dart to print your own name using function.](./Practice3/Ques21.dart)
+22. [Write a program in Dart to print even numbers between intervals using function.](./Practice3/Ques22.dart)
+23. [Write a program in Dart that generates random password.](./Practice3/Ques23.dart)
+24. [Write a program in Dart that find the area of a circle using function.](./Practice3/Ques24.dart)
+25. [Write a program in a dart that implements the Pythagorean theorem using function.](./Practice3/Ques25.dart)
 26. Write a program in Dart to reverse a String using function.
 27. Write a program in Dart to calculate power of a certain number. For e.g 5^3=125
 28. Create a list of names and print all names using list.
