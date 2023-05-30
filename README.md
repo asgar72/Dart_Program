@@ -1,5 +1,5 @@
 # Dart_Programm #Dart #Coding
-1. [Write a program to print your name in Dart.](./Ques1.dart)
+1. [Write a program to print your name in Dart.](./Practice1/Ques1.dart)
 2. [Write a program to print Hello I am “John Doe” and Hello I’am “John Doe” with single and double quotes.](./Ques2.dart)
 3. [Declare constant type** of int set value 7.](./Ques3.dart)
 4. [Write a program in Dart that finds simple interest. Formula= (p * t * r) / 100.](./Ques4.dart)
