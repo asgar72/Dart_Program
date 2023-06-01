@@ -1,4 +1,4 @@
-void mai() {
+void main() {
   var dayofweek = 5;
   switch (dayofweek) {
     case 1:
