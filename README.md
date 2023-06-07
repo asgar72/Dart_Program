@@ -24,6 +24,3 @@
 23. [Write a program in Dart that generates random password.](./Practice3/Ques23.dart)
 24. [Write a program in Dart that find the area of a circle using function.](./Practice3/Ques24.dart)
 25. [Write a program in a dart that implements the Pythagorean theorem using function.](./Practice3/Ques25.dart)
-26. Write a program in Dart to reverse a String using function.
-27. Write a program in Dart to calculate power of a certain number. For e.g 5^3=125
-28. Create a list of names and print all names using list.
