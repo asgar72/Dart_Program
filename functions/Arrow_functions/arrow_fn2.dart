@@ -1,8 +1,7 @@
 //Sum of two numbers With Arrow Function
-void main(){
-sum(2,5);
+void main() {
+  sum(2, 5);
 }
 
 // Arrow Syntax
-void sum(int x,int y) => print('sum is ${ x + y}');
-
+void sum(int x, int y) => print('sum is ${x + y}');
