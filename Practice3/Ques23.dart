@@ -3,7 +3,7 @@ import 'dart:math';
 
 void main() {
   // Define the length of the password
-  int length = 10;
+  int length = 8;
   
   // Generate a random password
   String password = generatePassword(length);
@@ -14,7 +14,7 @@ void main() {
 
 String generatePassword(int length) {
   // Define the characters to be used in the password
-  String characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#\$%^&*()-_=+[{]}|;:,<.>/';
+  String characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@#\$&';
   
   // Create a Random object
   Random random = Random();
