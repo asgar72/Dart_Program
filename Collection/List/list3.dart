@@ -1,10 +1,8 @@
-//Find The Length Of The List and reversed list and first elements and last elements of the list.
-
+//Changing Values Of List
 void main() {
-  List<String> names = ['Abbas', 'Aman', 'Asif', 'Irshad'];
-  print(names.length);
-  print(names.reversed);
-  print(names.first);
-  print(names.last);
-  
+  List<String> names = ['John', 'Lisa', 'Allen'];
+  print("Before change $names");
+  names[1] = 'Arun';
+  names[2] = 'Diwakar';
+  print("After change $names");
 }
