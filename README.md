@@ -27,5 +27,5 @@
 26. [WAP in Dart to reverse a String using function.](./Practice3/Ques26.dart)
 27. [WAP in Dart to calculate power of a certain number.](./Practice3/Ques27.dart)
 28. [WAP genrates random numbers.](./Practice3/Ques28.dart)
-29. [Write a program in a dart that implements the Pythagorean theorem using function.](./Practice3/Ques29.dart)
-30. [Write a program in a dart that implements the Pythagorean theorem using function.](./Practice3/Ques30.dart)
+29. [add two number with Arrow functions.](./Practice3/Ques29.dart)
+30. [WAP to genrates random number between two given numbers ?](./Practice3/Ques30.dart)
